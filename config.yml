@@ -1,4 +1,4 @@
-INDIGO_WELCOME_MESSAGE: "The place for all your online learning"
+INDIGO_WELCOME_MESSAGE: "四川大学锦城学院"
 INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
 
 # Footer links are dictionaries with a "title" and "url"
@@ -11,7 +11,7 @@ INDIGO_FOOTER_NAV_LINKS:
   - title: "Contact"
     url: "/contact"
 INDIGO_FOOTER_LEGAL_LINKS:
-    - title: "Terms of service"
+    - title: "注意"
       url: "/tos"
-    - title: "Indigo theme for Open edX"
-      url: "https://github.com/overhangio/indigo"
+    - title: "四川大学锦城学院"
+      url: "https://www.scujcc.edu.cn"
