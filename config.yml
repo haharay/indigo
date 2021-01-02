@@ -6,12 +6,12 @@ INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
 # INDIGO_FOOTER_NAV_LINKS: []
 # INDIGO_FOOTER_LEGAL_LINKS: []
 INDIGO_FOOTER_NAV_LINKS:
-  - title: "About"
+  - title: "关于"
     url: "/about"
-  - title: "Contact"
+  - title: "联系"
     url: "/contact"
 INDIGO_FOOTER_LEGAL_LINKS:
-    - title: "注意"
+    - title: "服务条款"
       url: "/tos"
-    - title: "四川大学锦城学院"
+    - title: "学校网址"
       url: "https://www.scujcc.edu.cn"
